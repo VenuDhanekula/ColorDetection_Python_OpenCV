@@ -46,23 +46,16 @@ def main():
             kernal = np.ones((5 ,5), "uint8")
             
             red=cv2.dilate(red, kernal)
-                    #redRes=cv2.bitwise_and(img, img, mask = red)
-            
             blue=cv2.dilate(blue,kernal)
-                    #blueRes=cv2.bitwise_and(img, img, mask = blue)
-            
             yellow=cv2.dilate(yellow,kernal)
-                    #yellowRes=cv2.bitwise_and(img, img, mask = yellow)    
             
 #Detecting the Respective Color
             detection(img, red, redColor, "Red Color" )
             detection(img, blue, blueColor, "Blue Color" )
             detection(img, yellow, yellowColor, "Yellow Color" )
-                       
-            #cv2.imshow("Redcolour",red)
+            
             cv2.imshow("Color Detection",img)
-            #cv2.imshow("red",res) 	
-            if cv2.waitKey(10) & 0xFF == ord('q'):
+            if cv2.waitKey(1) & 0xFF == 27):
                 cap.release()
                 cv2.destroyAllWindows()
                 break
@@ -70,6 +63,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-          
-
-    
