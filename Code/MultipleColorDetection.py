@@ -55,7 +55,7 @@ def main():
             detection(img, yellow, yellowColor, "Yellow Color" )
             
             cv2.imshow("Color Detection",img)
-            if cv2.waitKey(1) & 0xFF == 27):
+            if cv2.waitKey(1) & (0xFF == 27):
                 cap.release()
                 cv2.destroyAllWindows()
                 break
