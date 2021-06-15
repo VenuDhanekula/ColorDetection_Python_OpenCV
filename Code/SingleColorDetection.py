@@ -43,14 +43,10 @@ def main():
             cv2.imshow("Color Detection",img)
             cv2.imshow("Color",redRes)
             cv2.imshow("Mask On Color",red)
-            if cv2.waitKey(10) & 0xFF == ord('q'):
+            if cv2.waitKey(1) & (0xFF == 27):
                 cap.release()
                 cv2.destroyAllWindows()
                 break
 
 if __name__ == '__main__':
     main()
-          
-
-    
-
