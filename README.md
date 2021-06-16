@@ -89,7 +89,7 @@ This is how you can follow the instructions on setting up the project and runnin
 2. Complete installation (Below mentioned link gives the detailed information of installing the OpenCV in Raspberry Pi)
    <br />
    
-   * [Installation Link](https://docs.opencv.org/master/d3/df2/tutorial_py_basic_ops.html)
+   * [Installation Link](https://robu.in/how-to-install-opencv-in-raspberry-pi/)
    
    <br />
 3. Check the Open CV version (Output will be the installed version of the Open CV (i.e., 3.0.0 or 3.1.2)
