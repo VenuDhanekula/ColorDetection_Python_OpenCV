@@ -9,7 +9,7 @@
 <p align="left">
   <a >
     <img src="https://github.com/VenuDhanekula/LogoImages/blob/main/OpenCV_Logo.png" alt="Logo" width="200">
-  </a>  
+  </a>
 </p>
 
 <!-- COLORDETECTION RASPBERRYPI PYTHON -->
@@ -44,9 +44,21 @@
 <!-- ABOUT THE PROJECT -->
 ## Project Details
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You should element DRY principles to the rest of your life :smile:
+Single Color Detection
+* Below image gives the output information of the Single Color Detection code provided in the above folder. Color will be detected and made a border and lable around. It will also make the mask on the immage and also shows the color on the image.
+
+  <a >
+    <img src="Images/SingleColorDetection.png" alt="singleColorDetection" width="100%">
+  </a> 
+  
+Multiple Color Detection
+* Below image gives the output information of the Multiple Color Detection code provided in the above folder. Colors will be detected and made a border and lable around.
+
+  <a >
+    <img src="Images/MultipleColorDetection.png" alt="singleColorDetection" width="33%">
+  </a> 
+
+
 
 ### Built With
 
@@ -142,3 +154,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 [Instagram-shield]: https://github.com/VenuDhanekula/LogoImages/blob/main/Instagram_Logo.svg
 [Instagram-url]: https://instagram.com/venu_abhi
+
+[Product Name Screen Shot]: Single Color Detection
+[product-screenshot]:Images/SingleColorDetection.png
