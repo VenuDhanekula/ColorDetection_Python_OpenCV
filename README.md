@@ -154,6 +154,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 [Instagram-shield]: https://github.com/VenuDhanekula/LogoImages/blob/main/Instagram_Logo.svg
 [Instagram-url]: https://instagram.com/venu_abhi
-
-[Product Name Screen Shot]: Single Color Detection
-[product-screenshot]:Images/SingleColorDetection.png
