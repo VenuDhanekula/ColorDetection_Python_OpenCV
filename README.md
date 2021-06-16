@@ -1,6 +1,6 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![LinkedIn][Instagram-shield]][Instagram-url]
+[![Instagram][Instagram-shield]][Instagram-url]
 
 
 
@@ -140,5 +140,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [linkedin-shield]: https://github.com/VenuDhanekula/LogoImages/blob/main/LinkedIn_Logo.svg
 [linkedin-url]: https://linkedin.com/in/venu-dhanekula-706518a7
 
-[linkedin-shield]: https://github.com/VenuDhanekula/LogoImages/blob/main/Instagram_Logo.svg
-[linkedin-url]: https://instagram.com/venu_abhi
+[Instagram-shield]: https://github.com/VenuDhanekula/LogoImages/blob/main/Instagram_Logo.svg
+[Instagram-url]: https://instagram.com/venu_abhi
