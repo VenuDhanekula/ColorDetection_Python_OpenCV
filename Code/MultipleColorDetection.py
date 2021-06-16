@@ -46,9 +46,7 @@ def main():
             kernal = np.ones((5 ,5), "uint8")
             
             red=cv2.dilate(red, kernal)
-            
             blue=cv2.dilate(blue,kernal)
-            
             yellow=cv2.dilate(yellow,kernal) 
             
 #Detecting the Respective Color
@@ -67,6 +65,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-          
-
-    
