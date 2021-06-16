@@ -1,5 +1,6 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Instagram][Instagram-shield]][Instagram-url]
 
 
 
@@ -135,5 +136,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 [license-shield]: https://github.com/VenuDhanekula/LogoImages/blob/main/LicenceMIT_Logo.svg
 [license-url]: https://github.com/VenuDhanekula/ColorDetection_RaspberryPi_Python/blob/main/LICENSE
+
 [linkedin-shield]: https://github.com/VenuDhanekula/LogoImages/blob/main/LinkedIn_Logo.svg
 [linkedin-url]: https://linkedin.com/in/venu-dhanekula-706518a7
+
+[linkedin-shield]: https://github.com/VenuDhanekula/LogoImages/blob/main/Instagram_Logo.svg
+[linkedin-url]: https://instagram.com/venu_abhi
