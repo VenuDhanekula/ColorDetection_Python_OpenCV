@@ -1,6 +1,6 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Instagram][Instagram-shield]][Instagram-url]
+[![LinkedIn][Instagram-shield]][Instagram-url]
 
 
 
