@@ -18,9 +18,6 @@ def detection(img,colorDilate, color, colorText):
             img = cv2.rectangle(img,(x,y),(x+w,y+h),color,2)
             cv2.putText(img,colorText ,(x,y),cv2.FONT_HERSHEY_SIMPLEX, 0.7, color)
             
-def colorLimit(lowerLimit, upperLimit):
-    return 
-
 def main():
     while True:
         ret, img = cap.read()
