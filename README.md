@@ -147,7 +147,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [license-shield]: https://github.com/VenuDhanekula/LogoImages/blob/main/LicenceMIT_Logo.svg
-[license-url]: https://github.com/VenuDhanekula/ColorDetection_RaspberryPi_Python/blob/main/LICENSE
+[license-url]: https://github.com/VenuDhanekula/ColorDetection_Python_OpenCV/blob/main/LICENSE
 
 [linkedin-shield]: https://github.com/VenuDhanekula/LogoImages/blob/main/LinkedIn_Logo.svg
 [linkedin-url]: https://linkedin.com/in/venu-dhanekula-706518a7
